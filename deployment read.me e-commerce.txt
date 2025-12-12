@@ -1,0 +1,13 @@
+# React E‑Commerce App (Vite + React)
+
+## Deployment
+https://silly-duckanoo-dd4a33.netlify.app/
+
+## Features
+- Product Listing (FakeStore API)
+- Search / Sort / Filter
+- Product Details
+- Cart (Add/Remove/Update)
+- Checkout form with validation
+- Light/Dark Mode (Zustand/Context)
+- Responsive layout
